@@ -23,7 +23,7 @@ field_type: "greenfield"
 workflow_path: ".bmad/bmm/workflows/workflow-status/paths/quick-flow-greenfield.yaml"
 workflow_status:
   brainstorm-project: docs/bmm-brainstorming-session-2025-12-06.md
-  research: required
+  research: docs/bmm-research-technical-2025-12-06.md
   product-brief: optional
   tech-spec: required
   sprint-planning: required
