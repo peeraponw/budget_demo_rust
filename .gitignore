@@ -1,2 +1,5 @@
 .bmad
 .claude/commands
+
+# Auto Claude data directory
+.auto-claude/
